@@ -18,6 +18,7 @@ const NativeModules = {
   LinkingManager: require('./LinkingManager'),
   TimePickerAndroid: require('./TimePickerAndroid'),
   Vibration: require('./Vibration'),
+  RNI18n: require('./RNI18n')
 };
 
 module.exports = NativeModules;
